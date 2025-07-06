@@ -1,5 +1,6 @@
 # 📝 ToDoListGUI! 
 [Screenshot 2025-06-21 134551](https://github.com/user-attachments/assets/8587898d-ed31-4b23-af39-f7c1f1bf6dc9)
+![Screenshot 2025-06-21 134551](https://github.com/user-attachments/assets/02c8e954-e79d-4a56-9386-22bbb1e2827e)
 
 
 Прост desktop To-Do List мениджър с графичен интерфейс, създаден на C# с Windows Forms. Позволява създаване, маркиране и изтриване на задачи по лесен и интуитивен начин.
